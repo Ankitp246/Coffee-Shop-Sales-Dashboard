@@ -37,3 +37,19 @@ The Coffee Shop Sales Dashboard is designed to provide insights into sales data 
    
    - **Clustered Bar Chart of Most Sold Products:**
      - Highlights the best-selling products.
+    
+# Dashboard Insights:
+
+# Monthly Revenue Trends:
+-The line chart illustrates the fluctuations in total sales revenue across different months. Notably, February 2nd marks the lowest point in sales, contrasting with June 2nd, which stands out as the peak, indicating the highest sales volume throughout the year.
+
+# Store Revenue Distribution:
+This chart offers a concise overview of revenue distribution among three pivotal store locations. Each store's contribution is visually represented, showcasing the varying shares among these significant locations, thereby aiding in strategic decision-making.
+
+# Total Revenue Generated:
+The cumulative revenue generated from sales amounts to $698.8k, reflecting the collective financial impact of the coffee shop's operations.
+
+# Top Selling Products:
+The three most sold products are Coffee, Tea, and Bakery items, underscoring their popularity and significance within the coffee shop's product portfolio.
+
+
